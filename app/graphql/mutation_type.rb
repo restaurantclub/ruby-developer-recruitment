@@ -1,0 +1,4 @@
+class MutationType < BaseObject
+
+end
+
